@@ -1,8 +1,10 @@
-// !/usr/bin/env Java
-
-// Created By: Tamer Zreg
-// Date: Feb. 6, 2024
-// This program creates a dialogue between the user and the program.
+/**
+ * Has a Dialogue with the user.
+ *
+ * @author Tamer
+ * @version 1.0
+ * @since 2024/02/06
+ */
 
 // Imports utility
 import java.util.Scanner;

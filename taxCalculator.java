@@ -1,10 +1,13 @@
-// !/usr/bin/env Java
-
-// Created By: Tamer Zreg
-// Date: Feb. 6, 2024
-// This program asks the user for the cost of an item and tell them the total including HST.
+/**
+ * Calculates the tax for an item based on the tax rate and cost.
+ *
+ * @author Tamer
+ * @version 1.0
+ * @since 2024/02/06
+ */
 
 // Import Utility
+
 import java.util.*;
 
 // taxCalculator Class

@@ -1,8 +1,10 @@
-// !/usr/bin/env Java
-
-// Created By: Tamer Zreg
-// Date: Feb. 6, 2024
-// This program asks the user for their age and tell them whether or not they can vote.
+/**
+ * Checks your age and tells you weather or not you can vote.
+ *
+ * @author Tamer
+ * @version 1.0
+ * @since 2024/02/06
+ */
 
 // Import Utility
 import java.util.*;
